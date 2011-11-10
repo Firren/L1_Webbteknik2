@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<?xml-stylesheet type="text/xsl" href="lab1_uppg1.xsl"?>
+<sortiment>
+	<mejeriprodukter>
+		<grädde>
+			<produkt>
+				<produktnamn>Arla vispgrädde</produktnamn>
+				<pris>9</pris>
+			</produkt>
+			<produkt>
+				<produktnamn>Kelda matlagningsgrädde</produktnamn>
+				<pris>7.50</pris>
+			</produkt>
+			<produkt>
+				<produktnamn>Kelda vispgrädde</produktnamn>
+				<pris>10</pris>
+			</produkt>
+		</grädde>
+		<mjölk>
+			<produkt>
+				<produktnamn>Arla Lättmjölk</produktnamn>
+				<pris>9</pris>
+			</produkt>
+			<produkt>
+				<produktnamn>Arla Mellanmjölk</produktnamn>
+				<pris>10</pris>
+			</produkt>
+			<produkt>
+				<produktnamn>Arla Mjölk</produktnamn>
+				<pris>11</pris>
+			</produkt>
+		</mjölk>
+	</mejeriprodukter>
+	<köttprodukter>
+		<nöt>
+			<produkt>
+				<produktnamn>Fransyska</produktnamn>
+				<pris>123</pris>
+			</produkt><produkt>
+				<produktnamn>Revbensspjäll</produktnamn>
+				<pris>43</pris>
+			</produkt>
+		</nöt>
+		<fläsk>
+			<produkt>
+				<produktnamn>Fläskfilé</produktnamn>
+				<pris>78</pris>
+			</produkt><produkt>
+				<produktnamn>Revbensspjäll</produktnamn>
+				<pris>39</pris>
+			</produkt>
+		</fläsk>
+	</köttprodukter>
+	<frukt>
+		<äpple>
+			<produkt>
+					<produktnamn>Svenska äpplen</produktnamn>
+					<pris>15</pris>
+				</produkt>
+				<produkt>
+					<produktnamn>Hollänska äpplen</produktnamn>
+					<pris>12</pris>
+			</produkt>	
+		</äpple>
+		<apelsin>
+			<produkt>
+					<produktnamn>Spanska apelsiner</produktnamn>
+					<pris>15</pris>
+				</produkt>
+				<produkt>
+					<produktnamn>Brasilianska apelsiner</produktnamn>
+					<pris>12</pris>
+			</produkt>	
+		</apelsin>
+	</frukt>
+	<grönsaker>
+		<potatis>
+			<produkt>
+					<produktnamn>King Edvard</produktnamn>
+					<pris>9.80</pris>
+				</produkt>
+				<produkt>
+					<produktnamn>Mandelpotatis</produktnamn>
+					<pris>13.60</pris>
+			</produkt>	
+		</potatis>
+		<morötter>
+			<produkt>
+					<produktnamn>Svenska ekologiska morötter</produktnamn>
+					<pris>20</pris>
+				</produkt>
+				<produkt>
+					<produktnamn>Svenska morötter</produktnamn>
+					<pris>13.60</pris>
+			</produkt>	
+		</morötter>
+	</grönsaker>
+</sortiment>
+

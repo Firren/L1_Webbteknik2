@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="result.xslt" ?>
+<result event="Olympic 2006">
+  <location>
+    <country>Italy</country>
+    <city>Turin</city>
+  </location>
+  <summary>
+    <country name="Sweden">
+      <gold>13</gold>
+      <silver>3</silver>
+      <bronze>12</bronze>
+    </country>
+    <country name="Italy">
+      <gold>2</gold>
+      <silver>1</silver>
+      <bronze>2</bronze>
+    </country>
+    <country name="USA">
+      <gold>7</gold>
+      <silver>10</silver>
+      <bronze>12</bronze>
+    </country>
+    <country name="Finland">
+      <gold>3</gold>
+      <silver>8</silver>
+      <bronze>2</bronze>
+    </country>
+    <country name="Norway">
+      <gold>7</gold>
+      <silver>7</silver>
+      <bronze>5</bronze>
+    </country>
+    <country name="Russia">
+      <gold>7</gold>
+      <silver>9</silver>
+      <bronze>4</bronze>
+    </country>
+    <country name="Canada">
+      <gold>3</gold>
+      <silver>7</silver>
+      <bronze>9</bronze>
+    </country>
+    <country name="Germany">
+      <gold>2</gold>
+      <silver>5</silver>
+      <bronze>12</bronze>
+    </country>
+    <country name="China">
+      <gold>4</gold>
+      <silver>5</silver>
+      <bronze>2</bronze>
+    </country>
+  </summary>
+</result>
